@@ -1,5 +1,5 @@
 - 👋 Oi, me chamo Daniel Lima
-- 🎓 Sou graduado em análise desenvolvimento de sistemas
+- 🎓 Sou graduado em Análise Desenvolvimento de Sistemas
 - 🌱 Desenvolvimento front end
 
 
